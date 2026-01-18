@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+langchain_openai
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+hf_xet
+typesense
+langgraph
